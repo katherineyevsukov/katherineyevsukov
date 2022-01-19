@@ -13,8 +13,8 @@
 <a href="https://git-scm.com/" target="_blank"><img src="https://user-images.githubusercontent.com/58489217/150203024-25b57f6a-1874-4a8a-8d62-305d11fbcef2.png" width="75"/></a>
 <a href="https://www.postgresql.org/" target="_blank"><img src="https://user-images.githubusercontent.com/58489217/150203029-c35f75e2-c85a-47b9-b120-456550c63eaf.png" width="75"/></a>
 <a href="https://knexjs.org/" target="_blank"><img src="https://user-images.githubusercontent.com/58489217/150203036-69c918c5-4105-4451-9ba6-6b951d727114.png" width="75"/></a>
-
-
+<a href="https://redux.js.org/" target="_blank"><img src="https://user-images.githubusercontent.com/58489217/150203048-0f4e998c-a2a2-4c3b-ae55-ae8880ef4829.png" width="75"/></a>
+<a href="https://www.sqlite.org/index.html" target="_blank"><img src="https://user-images.githubusercontent.com/58489217/150203056-00bde120-b6b6-4805-b600-46f8ec26097f.png" width="75"/></a>
 
 
 <!--
