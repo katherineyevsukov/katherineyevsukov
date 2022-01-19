@@ -14,6 +14,7 @@
 <a href="https://knexjs.org/" target="_blank"><img src="https://user-images.githubusercontent.com/58489217/150203036-69c918c5-4105-4451-9ba6-6b951d727114.png" width="75"/></a>
 <a href="https://redux.js.org/" target="_blank"><img src="https://user-images.githubusercontent.com/58489217/150203048-0f4e998c-a2a2-4c3b-ae55-ae8880ef4829.png" width="75"/></a>
 <a href="https://www.sqlite.org/index.html" target="_blank"><img src="https://user-images.githubusercontent.com/58489217/150203056-00bde120-b6b6-4805-b600-46f8ec26097f.png" width="75"/></a>
+<a href="https://jestjs.io/" target="_blank"><img src="https://user-images.githubusercontent.com/58489217/150203066-7c3e6d18-2a1c-4544-8b42-2a3d0846da71.jpeg" width="75"/></a>
 
 
 <!--
