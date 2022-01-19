@@ -1,8 +1,7 @@
 <img src="https://user-images.githubusercontent.com/58489217/150205146-01b885b0-b7b3-4745-97a5-c06064ed2f0d.png" />
 
-### Hi there 👋
 
-#### Languages & Tools
+## Languages & Tools
 
 <a href="https://www.javascript.com/" target="_blank"><img src="https://user-images.githubusercontent.com/58489217/150200417-d14907e0-9100-4feb-97a3-c68582f0513d.png" width="75" height="75"/></a>
 <a href="https://reactjs.org/" target="_blank"><img src="https://user-images.githubusercontent.com/58489217/150200420-7825194a-d584-4aad-bc2a-f5d41627c04c.png" width="75" height="75"/></a>
