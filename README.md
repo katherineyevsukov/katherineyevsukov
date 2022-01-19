@@ -15,7 +15,6 @@
 <a href="https://redux.js.org/" target="_blank"><img src="https://user-images.githubusercontent.com/58489217/150203048-0f4e998c-a2a2-4c3b-ae55-ae8880ef4829.png" width="75"/></a>
 <a href="https://www.sqlite.org/index.html" target="_blank"><img src="https://user-images.githubusercontent.com/58489217/150203056-00bde120-b6b6-4805-b600-46f8ec26097f.png" width="75"/></a>
 <a href="https://jestjs.io/" target="_blank"><img src="https://user-images.githubusercontent.com/58489217/150203066-7c3e6d18-2a1c-4544-8b42-2a3d0846da71.jpeg" width="75"/></a>
-<a href="https://jestjs.io/" target="_blank"><img src="https://user-images.githubusercontent.com/58489217/150203066-7c3e6d18-2a1c-4544-8b42-2a3d0846da71.jpeg" width="75"/></a>
 <a href="https://www.postman.com/" target="_blank"><img src="https://user-images.githubusercontent.com/58489217/150203079-28d4f285-709e-4bd1-8508-5b48306886f9.png" width="75"/></a>
 <a href="https://www.cypress.io/" target="_blank"><img src="https://user-images.githubusercontent.com/58489217/150205127-642031a7-208c-486a-9a22-20abe52a874a.png" width="75"/></a>
 <a href="https://code.visualstudio.com/brand" target="_blank"><img src="https://user-images.githubusercontent.com/58489217/150211373-1c514cce-de53-43fe-84b5-3f18f7c0a631.png" width="75"/></a>
