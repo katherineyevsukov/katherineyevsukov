@@ -4,8 +4,10 @@
 
 #### Languages & Tools
 
-<a href="https://user-images.githubusercontent.com/58489217/150200417-d14907e0-9100-4feb-97a3-c68582f0513d.png" target="_blank"><img src="https://user-images.githubusercontent.com/58489217/150200417-d14907e0-9100-4feb-97a3-c68582f0513d.png" width="100" height="100"/></a>
-
+<a href="https://www.javascript.com/" target="_blank"><img src="https://user-images.githubusercontent.com/58489217/150200417-d14907e0-9100-4feb-97a3-c68582f0513d.png" width="100" height="100"/></a>
+<a href="https://reactjs.org/" target="_blank"><img src="https://user-images.githubusercontent.com/58489217/150200420-7825194a-d584-4aad-bc2a-f5d41627c04c.png" width="100" height="100"/></a>
+<a href="https://nodejs.org/en/" target="_blank"><img src="https://user-images.githubusercontent.com/58489217/150202996-49e1a392-3824-4e7a-85b8-1f8016936693.jpeg" width="100" height="100"/></a>
+<a href="https://expressjs.com/" target="_blank"><img src="https://user-images.githubusercontent.com/58489217/150203003-8e2ac067-9be5-4a62-88c0-a0e14094bbb0.png" width="100" height="100"/></a>
 <!--
 **katherineyevsukov/katherineyevsukov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
