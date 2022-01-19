@@ -1,7 +1,7 @@
 <img src="https://user-images.githubusercontent.com/58489217/150205146-01b885b0-b7b3-4745-97a5-c06064ed2f0d.png" />
 
 - 💻I'm currently working on Full Stack Web Development Cetification at BloomTech (FKA Lambda School)
-- 🧠 I’m currently learning Data Structures & Algorithms
+- 🧠 This month, I am learning Data Structures & Algorithms
 - 🤟 Fun fact: I am a former interpreter & am fluent in American Sign Language 
 
 
