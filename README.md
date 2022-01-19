@@ -12,7 +12,7 @@
 <img src="https://user-images.githubusercontent.com/58489217/150203011-d27c9a3b-2536-486b-b4a0-a01db63dbaed.png" width="100" height="100"/>
 <a href="https://git-scm.com/" target="_blank"><img src="https://user-images.githubusercontent.com/58489217/150203024-25b57f6a-1874-4a8a-8d62-305d11fbcef2.png" width="100"/></a>
 <a href="https://www.postgresql.org/" target="_blank"><img src="https://user-images.githubusercontent.com/58489217/150203029-c35f75e2-c85a-47b9-b120-456550c63eaf.png" width="100"/></a>
-<a href="https://knexjs.org/" target="_blank"><img src="https://user-images.githubusercontent.com/58489217/150203036-69c918c5-4105-4451-9ba6-6b951d727114.pngg" width="100"/></a>
+<a href="https://knexjs.org/" target="_blank"><img src="https://user-images.githubusercontent.com/58489217/150203036-69c918c5-4105-4451-9ba6-6b951d727114.png" width="100"/></a>
 
 
 
