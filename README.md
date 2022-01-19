@@ -4,7 +4,7 @@
 
 #### Languages & Tools
 
-<a href="https://user-images.githubusercontent.com/58489217/150200417-d14907e0-9100-4feb-97a3-c68582f0513d.png" target="_blank"><img src="https://user-images.githubusercontent.com/58489217/150200417-d14907e0-9100-4feb-97a3-c68582f0513d.png"/><style="width:100px" "height:100px"/></a>
+<a href="https://user-images.githubusercontent.com/58489217/150200417-d14907e0-9100-4feb-97a3-c68582f0513d.png" target="_blank"><img src="https://user-images.githubusercontent.com/58489217/150200417-d14907e0-9100-4feb-97a3-c68582f0513d.png" style="width:100px" "height:100px"/></a>
 
 <!--
 **katherineyevsukov/katherineyevsukov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
