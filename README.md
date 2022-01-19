@@ -1,5 +1,9 @@
 <img src="https://user-images.githubusercontent.com/58489217/150205146-01b885b0-b7b3-4745-97a5-c06064ed2f0d.png" />
 
+- 💻I'm currently working on Full Stack Web Development Cetification at BloomTech (FKA Lambda School)
+- 🧠 I’m currently learning Data Structures & Algorithms
+- 🤟 Fun fact: I am a former interpreter & am fluent in American Sign Language 
+
 
 ## Languages & Tools
 
@@ -19,17 +23,5 @@
 <a href="https://expressjs.com/" target="_blank"><img src="https://user-images.githubusercontent.com/58489217/150203003-8e2ac067-9be5-4a62-88c0-a0e14094bbb0.png" width="75"/></a>
 <a href="https://knexjs.org/" target="_blank"><img src="https://user-images.githubusercontent.com/58489217/150203036-69c918c5-4105-4451-9ba6-6b951d727114.png" width="75"/></a>
 
-<!--
-**katherineyevsukov/katherineyevsukov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
