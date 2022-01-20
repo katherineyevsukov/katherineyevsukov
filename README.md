@@ -23,8 +23,9 @@
 <a href="https://www.postman.com/" target="_blank"><img src="https://user-images.githubusercontent.com/58489217/150203079-28d4f285-709e-4bd1-8508-5b48306886f9.png" width="75"/></a>
 <a href="https://www.cypress.io/" target="_blank"><img src="https://user-images.githubusercontent.com/58489217/150205127-642031a7-208c-486a-9a22-20abe52a874a.png" width="75"/></a>
 <a href="https://code.visualstudio.com/brand" target="_blank"><img src="https://user-images.githubusercontent.com/58489217/150211373-1c514cce-de53-43fe-84b5-3f18f7c0a631.png" width="75"/></a>
-<a href="https://expressjs.com/" target="_blank"><img src="https://user-images.githubusercontent.com/58489217/150203003-8e2ac067-9be5-4a62-88c0-a0e14094bbb0.png" width="75"/></a>
+<a href="https://expressjs.com/" target="_blank"><img src="https://user-images.githubusercontent.com/58489217/150312849-286c6827-f87a-43bd-9f5a-93b6668777cf.png" width="75"/></a>
 <a href="https://knexjs.org/" target="_blank"><img src="https://user-images.githubusercontent.com/58489217/150203036-69c918c5-4105-4451-9ba6-6b951d727114.png" width="75"/></a>
+<a href="https://jwt.io/" target="_blank"><img src="https://user-images.githubusercontent.com/58489217/150312859-058d4f40-ef8a-49f1-a128-ae63879043df.png" width="75"/></a>
 
 
 
