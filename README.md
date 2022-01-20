@@ -2,7 +2,7 @@
 
 ## About Me
 
-- 💻I'm currently working on Full Stack Web Development Cetification at BloomTech (FKA Lambda School)
+- 💻 I'm currently working on Full Stack Web Development Cetification at BloomTech (FKA Lambda School)
 - 🧠 This month, I am learning Data Structures & Algorithms
 - 📝 Check out a <a href="https://www.linkedin.com/in/kat-yevsukov/overlay/1635480206333/single-media-viewer/">technical article</a> I wrote on Jest Matchers & JS value vs. reference types
 - 🤟 Fun fact: I am a former interpreter & am fluent in American Sign Language 
