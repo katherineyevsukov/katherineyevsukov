@@ -5,7 +5,7 @@
 - 💻 I'm currently working on Full Stack Web Development Certification at BloomTech (FKA Lambda School)
 - 🧠 This month, I am learning Data Structures & Algorithms
 - 📝 Check out a <a href="https://www.linkedin.com/in/kat-yevsukov/overlay/1635480206333/single-media-viewer/">technical article</a> I wrote on Jest Matchers & JS value vs. reference types
-- 📚 When my eyes need a break from the screen, I bury them in a book. Right now, I am reading <a href="http://www.matthaig.com/books/midnight-library/" tragte="_blank">"The Midnight Library"</a> by Matt Haig
+- 📚 When my eyes need a break from the screen, I bury them in a book. Right now, I am reading "The Celestine Prophecy" by James Redfield
 - 🤟 Fun fact: I am a former interpreter & am fluent in American Sign Language 
 - 🔗 Connect with me on <a href="https://www.linkedin.com/in/kat-yevsukov/" target="_blank">LinkedIn</a>
 - 📧 Email me at <a href="kyevsukov@gmail.com" target="_blank">kyevsukov@gmail.com</a>
