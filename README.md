@@ -10,6 +10,9 @@
 - 🔗 Connect with me on <a href="https://www.linkedin.com/in/kat-yevsukov/" target="_blank">LinkedIn</a>
 - 📧 Email me at <a href="kyevsukov@gmail.com" target="_blank">kyevsukov@gmail.com</a>
 
+
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="kat-yevsukov" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/kat-yevsukov?trk=profile-badge">Kat Yevsukov</a></div>
+
 ## Languages & Tools 🛠
 
 <a href="https://www.javascript.com/" target="_blank"><img src="https://user-images.githubusercontent.com/58489217/150200417-d14907e0-9100-4feb-97a3-c68582f0513d.png" width="75" height="75"/></a>
