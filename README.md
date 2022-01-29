@@ -9,10 +9,6 @@
 - 🤟 Fun fact: I am a former interpreter & am fluent in American Sign Language 
 - 🔗 Connect with me on <a href="https://www.linkedin.com/in/kat-yevsukov/" target="_blank">LinkedIn</a>
 - 📧 Email me at <a href="kyevsukov@gmail.com" target="_blank">kyevsukov@gmail.com</a>
-- 
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
-
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="kat-yevsukov" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/kat-yevsukov?trk=profile-badge">Kat Yevsukov</a></div>
               
               
 
