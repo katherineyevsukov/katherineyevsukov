@@ -2,7 +2,7 @@
 
 ## Hello World 🌎
 
-- 💻 I'm currently working on Full Stack Web Development Certification at Lambda School
+- 💻 I'm Kat & I am a Full Stack Web Developer
 - 🧠 This month, I am learning Python and working on the backend of an LMS for a non-profit
 - 📝 Check out a <a href="https://www.linkedin.com/in/kat-yevsukov/overlay/1635480206333/single-media-viewer/">technical article</a> I wrote on Jest Matchers & JS value vs. reference types
 - 📚 When my eyes need a break from the screen, I bury them in a book. Right now, I am reading "A Gentleman in Moscow" by Amor Towles
